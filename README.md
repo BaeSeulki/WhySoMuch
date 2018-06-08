@@ -1,8 +1,10 @@
-## Introduction
+### Introduction
 
-> Related researches on recommendation system using user-item profile builded by knowledge graphs. 
+> Related researches on recommendation system using user-item profile builded by knowledge graphs.  
+> The indexes before paper references are linked to the detailed descriptions. 
 
-### Keywords: `knowledge graph`, `user-item profile`, `recommendation system`
+ #### Keywords:   
+ **`knowledge graph`, `user-item profile`, `recommendation system`**
 
 * _**Paper References:**_
 
@@ -26,7 +28,7 @@
     - [ ] [17] Zhang Y, Ai Q, Chen X, et al. **Learning over Knowledge-Base Embeddings for Recommendation[J].** arXiv preprint arXiv:1803.06540, 2018.
     - [ ] [18] Das D, Sahoo L, Datta S. **A Survey on Recommendation System[J].** InternationalJournal of Computer Applications, 2017, 160(7).
     - [ ] [19] Wei J, He J, Chen K, et al. **Collaborative filtering and deep   learning based recommendation system for cold start items[J].** Expert Systems with Applications,2017, 69: 29-39.
-    - [ ] [20] Wang H, Zhang F, Wang J, et al. [**Ripple Network: Propagating User Preferences on the   Knowledge   Graph   for   Recommender   Systems[J].**](https://arxiv.org/abs/1803.03467)   arXiv  preprint arXiv:1803.03467, 2018.
+    - [ ] [[20]](https://github.com/BaeSeulki/WhySoMuch/papers/20.md) Wang H, Zhang F, Wang J, et al. [**Ripple Network: Propagating User Preferences on the   Knowledge   Graph   for   Recommender   Systems[J].**](https://arxiv.org/pdf/1803.03467.pdf)   arXiv  preprint arXiv:1803.03467, 2018.
     - [ ] [21] Wang H, Zhang F, Xie X, et al. [**DKN: Deep Knowledge-Aware Network for News Recommendation[J].**](https://arxiv.org/pdf/1801.08284.pdf) arXiv preprint arXiv:1801.08284, 2018.
     - [ ] [22] Zhang F, Yuan N J, Lian D, et al. [**Collaborative knowledge base embedding for recommender systems[C]**](http://delivery.acm.org/10.1145/2940000/2939673/p353-zhang.pdf?ip=49.52.10.52&id=2939673&acc=ACTIVE%20SERVICE&key=BF85BBA5741FDC6E%2E035EACC12F524219%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1528454536_b305c2113482819f1dc4524cd320ed5b)//Proceedings of the 22nd ACM SIGKDD international conference on knowledge discovery and data mining. ACM, 2016: 353-362.
     - [ ] [23] Tay Y, Tuan L A, Phan M C, et al. [**Multi-Task Neural Network for Non-discrete Attribute Prediction in Knowledge Graphs[C]**](https://arxiv.org/pdf/1708.04828.pdf)//Proceedings of the 2017 ACM on Conference on Information and Knowledge Management. ACM, 2017: 1029-1038.
